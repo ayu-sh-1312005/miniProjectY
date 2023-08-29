@@ -7,7 +7,7 @@ function Footer() {
     <div className='bg-gray-900 text-white'>
         <div className='w-[1080px] flex justify-between items-center mx-auto p-10'>
             <div className='flex flex-col gap-2 flex-1 h-40'>
-                <p>Do You Have Any Queries Regarding Our Pricing?</p>
+                <p>Do You Have Any Queries?</p>
                 <div className='bg-blue-500 rounded-md w-fit p-2'>
                     <button>SEND INQUIRY</button>
                 </div>
@@ -20,7 +20,7 @@ function Footer() {
                 <p className='text-sm text-gray-600 font-bold'>Dayananda Sagar College Of Engineering</p>
             </div>
             <div className='flex flex-col gap-2 flex-1 justify-center h-40 '>
-                <p className=''>Parkin Working Hours</p>
+                <p className=''>Working Hours</p>
                 <div className='text-sm text-gray-600 font-bold'>
                     <p>Monday-Friday</p>
                     <p>09:00 AM - 10:30 PM</p>
