@@ -22,7 +22,7 @@ function Home() {
               <p className='text-gray-600 text-lg'>Get behind the wheel of comfort and convenience. Our car rentals offer top-notch options to suit every adventure, ensuring a smooth ride from start to finish.</p>
               <div className='flex gap-6'>
                 <div className='bg-blue-500 rounded-full px-2 py-2 text-white w-fit font-bold text-2xl'>
-                  <button>Book a slot</button>
+                  <a href="#formdata"><button>Book a slot</button></a>
                 </div>
                 <div className='text-blue-500 border-2 border-blue-500 rounded-full px-2 py-2 bg-white w-fit font-bold text-2xl'>
                   <button>Explore</button>
