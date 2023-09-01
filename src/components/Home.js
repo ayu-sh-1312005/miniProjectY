@@ -2,7 +2,8 @@ import React from 'react';
 import Navbar from './Navbar';
 import Card from './Card';
 import Footer from './Footer';
-import ServingCard from './ServingCard';
+import ServingCard from './ServingCard';  
+import FormData from './FormData';
 
 function Home() {
   return (
@@ -58,6 +59,8 @@ function Home() {
             </div>
           </div>
         </div>
+        {/* formData */}
+        <FormData />
         {/* footer */}
         <Footer />
     </div>
